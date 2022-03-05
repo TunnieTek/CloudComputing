@@ -37,20 +37,6 @@
         </div>
     </footer>
 
-<script type="text/javascript">
-    function MyAudio(event){
-    if(event.currentTime>3){
-    event.currentTime=0;
-    event.pause();
-    alert("Buy Premium")
-    }
-    }
-
-    var alertList = document.querySelectorAll('alert')
-    var alerts =  [].slice.call(alertList).map(function MyAudio(event) {
-    return new bootstrap.Alert(MyAudio)
-})
-</script>
 
 
 <script>
