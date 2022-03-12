@@ -12,7 +12,6 @@
                                             <img src="images/Intro.png" style="width:91% ;padding:10px; margin-left: 30px">
                                         </div>
                                     </div>
-					<h1> LK NÈ</h1>
                                     <div class="col-lg-8">
                                         <div class="slide-banner">
                                             <div id="demo" class="carousel slide" data-bs-ride="carousel">
